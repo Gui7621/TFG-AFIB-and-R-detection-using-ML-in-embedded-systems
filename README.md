@@ -1,17 +1,17 @@
-Os dados do projeto compartilhado nesse repositório foram divididos em determinadas pastas que envolvem diferentes etapas realizadas no TFG.
+The project data shared in this repository has been divided into certain folders that involve different steps performed in TFG.
 
-A primeira (Algoritmo de detecção de picos R) possui o arquivo em Python do algoritmo construído junto com os testes feitos para atestarem a sua funcionalidade.
+The first one (R Peak Detection Algorithm) has the Python file of the algorithm built along with the tests done to attest to its functionality.
 
-Já a segunda pasta (Arquivo do esquemático no Fritzing) tem o arquivo para ser editado no Fritzing com o esquemático na protoboard do protótipo montado. 
+The second folder (Schematic file in Fritzing) has the file to be edited in Fritzing with the schematic on the protoboard of the assembled prototype.
 
-A pasta "Arquivos do Jupyter Notebook" contém diversos arquivos em Python que mostram todo o desenvolvimento do projeto de aprendizado de máquina, desde o trabalho com a base de dados incluindo a filtragem e normalização dos registros até a construção e teste do modelo neural.
+The "Jupyter Notebook Files" folder contains several Python files that show the entire development of the machine learning project, from working with the database including filtering and normalizing records to building and testing the neural model.
 
-A pasta "Classificações do modelo para dados de ECG amostrados no Boneco Simulador SimMan" possui os arquivos em Excel contendo os resultados das classificações do modelo para os exames realizados no SimMan.
+The folder "Model classifications for ECG data sampled in SimMan Simulator" contains the Excel files containing the results of the model classifications for the exams performed in SimMan.
 
-Já a pasta "Dados de ECG amostrados no Boneco Simulador SimMan" tem alguns arquivos em Excel que contém registros de ECG de RS e FA coletados a partir do SimMan, onde alguns foram utilizados para teste do modelo nos arquivos do Jupyter Notebook.
+The folder "ECG data sampled in SimMan Simulator" has some Excel files that contain RS and FA ECG records collected from SimMan, where some were used to test the model in Jupyter Notebook files.
 
-A sexta pasta (Link do projeto com o modelo final no Edge Impulse) contém um arquivo em txt com o link para o projeto público no Edge Impulse que possui o modelo neural utilizado para fazer a inferência na ESP32. Lá é possível também verificar os resultados de treinamento e teste do modelo, assim como os dados de entrada deste, que são justamente os batimentos cardíacos individuais.
+The sixth folder (Link of the project with the final model in Edge Impulse) contains a txt file with the link to the public project in Edge Impulse that has the neural model used to make the inference in ESP32. There you can also check the model's training and test results, as well as its input data, which are precisely the individual heartbeats.
 
-Por fim, a pasta "Programa em C++" possui o arquivo .ino do programa final utilizado para fazer a inferência do modelo em C++ na ESP32, incluindo todas as etapas de amostragem do sinal cardíaco, tratamento dos dados, obtenção dos picos R e dos batimentos cardíacos individuais até as classificações do modelo e do exame de 10s final.
+Finally, the "Program in C++" folder has the .ino file of the final program used to make the inference of the model in C++ in ESP32, including all steps of sampling the cardiac signal, data processing, obtaining the R peaks and the individual heartbeats to the final 10s model and exam scores.
 
 
