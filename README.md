@@ -1,4 +1,4 @@
-![HeartMonitor](https://github.com/Gui7621/TFG-AFIB_and_SR_detection_using_ML_in_embedded_systems/blob/main/Images/HeartMonitor.jpg){:height="100px" width="100px"}
+![HeartMonitor](https://github.com/Gui7621/TFG-AFIB_and_SR_detection_using_ML_in_embedded_systems/blob/main/Images/HeartMonitor.jpg)
 The project data shared in this repository has been divided into certain folders that involve different steps performed in TFG.
 
 The first one (R Peak Detection Algorithm) has the Python file of the algorithm built along with the tests done to attest to its functionality.
