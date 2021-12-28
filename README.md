@@ -1,4 +1,9 @@
-![HeartMonitor](https://github.com/Gui7621/TFG-AFIB_and_SR_detection_using_ML_in_embedded_systems/blob/main/Images/HeartMonitor.jpg)
+# AFIB And SR Detection Using ML In Embedded Systemns
+
+<p align="center"> 
+<img src="https://github.com/Gui7621/TFG-AFIB_and_SR_detection_using_ML_in_embedded_systems/blob/main/Images/HeartMonitor.jpg">
+</p>
+
 The project data shared in this repository has been divided into certain folders that involve different steps performed in TFG.
 
 The first one (R Peak Detection Algorithm) has the Python file of the algorithm built along with the tests done to attest to its functionality.
@@ -15,4 +20,6 @@ The sixth folder (Link of the project with the final model in Edge Impulse) cont
 
 Finally, the "Program in C++" folder has the .ino file of the final program used to make the inference of the model in C++ in ESP32, including all steps of sampling the cardiac signal, data processing, obtaining the R peaks and the individual heartbeats to the final 10s model and exam scores.
 
-
+<p align="center"> 
+<img src="https://github.com/Gui7621/TFG-AFIB_and_SR_detection_using_ML_in_embedded_systems/blob/main/Images/SiMan.jpeg" width="500" height="700" />
+</p>
